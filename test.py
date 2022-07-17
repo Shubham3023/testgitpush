@@ -8,6 +8,35 @@ d = {
     "email" : "shubham@ineuron.ai",
     "surname" : "verma"
 }
+d = {
+    "name" : "shubham" ,
+    "email" : "shubham@ineuron.ai",
+    "surname" : "verma"
+}
+d = {
+    "name" : "shubham" ,
+    "email" : "shubham@ineuron.ai",
+    "surname" : "verma"
+}
+d = {
+    "name" : "shubham" ,
+    "email" : "shubham@ineuron.ai",
+    "surname" : "verma"
+}d = {
+    "name" : "shubham" ,
+    "email" : "shubham@ineuron.ai",
+    "surname" : "verma"
+}d = {
+    "name" : "shubham" ,
+    "email" : "shubham@ineuron.ai",
+    "surname" : "verma"
+}d = {
+    "name" : "shubham" ,
+    "email" : "shubham@ineuron.ai",
+    "surname" : "verma"
+}
+
+
 
 db1 = client['mongotest']
 coll = db1['test']
